@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package lektion2;
+
+/**
+ * @author vmadmin
+ *
+ */
+public class Lektion_2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
